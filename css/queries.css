@@ -1,4 +1,4 @@
-/* BELOW 1300px(Smaller Desktops)✅✅✅ */
+/* Smaller Desktops-BELOW 1300px */
 @media screen and (max-width: 81.25em) {
   .hero {
     max-width: 100rem;
@@ -6,9 +6,9 @@
     padding: 0 2rem;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 1100px(Smaller Desktops)✅✅✅ */
+
+/*Smaller Desktops -BELOW 1100px*/
 @media screen and (max-width: 68.75em) {
   .nav {
     padding: 0 6rem;
@@ -32,9 +32,9 @@
     font-size: 1.6rem !important;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 900px(Tablets)✅✅✅ */
+
+/* Tablets -BELOW 900px */
 @media screen and (max-width: 56.25em) {
   .nav {
     margin-bottom: 2.5rem;
@@ -119,9 +119,9 @@
     padding: 2rem;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 730px(Tablets)✅✅✅ */
+
+/* Tablets -BELOW 730px */
 @media screen and (max-width: 45.625em) {
   .nav {
     padding: 0 3rem;
@@ -176,9 +176,9 @@
     max-width: 70%;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 600px(Small-Tablets)✅✅✅ */
+
+/* Small-Tablets -BELOW 600px */
 @media screen and (max-width: 37.5em) {
   .hero {
     max-width: 50rem;
@@ -230,9 +230,9 @@
     font-size: 6rem;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 544px(Phones)✅✅✅ */
+
+/* Phones- BELOW 544px */
 @media screen and (max-width: 34em) {
   .nav div {
     display: none;
@@ -321,7 +321,7 @@
 }
 /* ⛔️⛔️⛔️ */
 
-/* BELOW 470px(Mobile)✅✅✅ */
+/* Mobile - BELOW 470px */
 @media screen and (max-width: 29.375em) {
   .hero {
     max-width: 40rem;
@@ -357,9 +357,9 @@
     width: 85%;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 425px(Mobile-L)✅✅✅ */
+
+/* Mobile-L- BELOW 425px */
 @media screen and (max-width: 26.5625em) {
   .hero {
     max-width: 35rem;
@@ -443,9 +443,9 @@
     --ionicon-stroke-width: 4.5rem;
   }
 }
-/* ⛔️⛔️⛔️ */
 
-/* BELOW 375px(Mobile-M)✅✅✅ */
+
+/* Mobile-M -BELOW 375x */
 @media screen and (max-width: 23.4375em) {
   .hero {
     max-width: 30rem;
@@ -556,4 +556,4 @@
     font-size: 1.2rem;
   }
 }
-/* ⛔️⛔️⛔️ */
+
